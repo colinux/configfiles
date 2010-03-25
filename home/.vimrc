@@ -1,1 +1,4 @@
-/home/colin/.vimrc
+set number
+"set background=dark
+"syntax on
+

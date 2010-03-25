@@ -1,1 +1,14 @@
-/home/colin/.gitconfig
+[color]
+	ui = true
+
+[user]
+	name = Colin Darie
+	email = colindarie@gmail.com
+
+[alias]
+	ci = commit
+	co = checkout
+	st = status
+
+[core]
+	whitespace = -blank-at-eof
