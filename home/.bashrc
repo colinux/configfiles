@@ -108,11 +108,15 @@ alias gci="git commit"
 alias gca="git commit -a"
 alias gco="git checkout"
 
+
+
+# radios
 alias fmus="cvlc http://mp3.live.tv-radio.com/francemusique/all/francemusiquehautdebit.mp3"
 alias rmc="cvlc http://vipicecast.yacast.net/rmc"
 alias radiogg="cvlc http://www.mistercouzin.net:8000/listen.pls"
 
 
+# gpg shortcut
 alias gpgsign="gpg --sign --encrypt -r E0228A97 --armor" 
 
 
