@@ -1,0 +1,2 @@
+Aptitude::CmdLine::Package-Display-Format "%c%M%a %p# %12v %12V %t %d# %I";
+Aptitude::CmdLine::Show-Versions "true";
