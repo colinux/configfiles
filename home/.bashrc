@@ -107,6 +107,7 @@ alias ga="git add"
 alias gci="git commit"
 alias gca="git commit -a"
 alias gco="git checkout"
+alias glg="git log --graph --stat"
 
 
 
